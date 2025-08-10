@@ -23,4 +23,36 @@ The dashboard provides insights into **Sales, Profit, and Category performance**
 - **Map**: Geographical distribution of sales & profit by state.
 - **Pie Chart**: Category sales distribution.
 - **Line Chart**: Sales trend over time.
-- **Inte**
+- **Interactive Filtering**: Region-based insights.
+
+---
+
+## 📂 Files
+- `Superstore_Dashboard.pbix` → Power BI dashboard file.
+- `Superstore_Summary.pptx` → PowerPoint presentation with key insights.
+
+---
+
+## 🔍 Key Insights
+- **California** and **New York** record the highest sales among all states.
+- **West Region**: Technology and Furniture sales are almost equal, both ahead of Office Supplies.
+- **East Region**: Technology leads sales, followed by Office Supplies and Furniture.
+- Profit distribution aligns with sales trends.
+
+
+
+## 🚀 How to Use
+1. Download the `.pbix` file and open it in **Power BI Desktop**.
+2. Use the slicers to filter by **Region**, **Year**, or **Category**.
+3. View the `.pptx` file for a summarized business presentation.
+
+
+
+## 🛠 Tools Used
+- **Power BI**
+- **Microsoft PowerPoint**
+- **Superstore Dataset**
+
+
+nkedIn Link]  
+GitHub: [Your GitHub Profile Link]
