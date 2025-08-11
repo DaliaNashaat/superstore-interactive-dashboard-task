@@ -54,5 +54,3 @@ The dashboard provides insights into **Sales, Profit, and Category performance**
 - **Superstore Dataset**
 
 
-nkedIn Link]  
-GitHub: [Your GitHub Profile Link]
